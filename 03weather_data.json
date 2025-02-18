@@ -1,0 +1,17 @@
+[
+  {
+    "zipcode": "10001",
+    "temperature": 15.5,
+    "humidity": 45
+  },
+  {
+    "zipcode": "20001",
+    "temperature": 20.0,
+    "humidity": 50
+  },
+  {
+    "zipcode": "30001",
+    "temperature": 18.3,
+    "humidity": 55
+  }
+]
